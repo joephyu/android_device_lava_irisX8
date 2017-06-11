@@ -15,6 +15,6 @@ To build:
 
 ```sh
 . build/envsetup.sh
-lunch omni_irisX8-userdebug
+lunch omni_irisX8-eng
 make -j5 recoveryimage
 ```
